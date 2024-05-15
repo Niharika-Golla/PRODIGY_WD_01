@@ -1,9 +1,32 @@
-**Description:**
-This repository contains code for an interactive navigation menu implemented using HTML, CSS, and JavaScript. The navigation menu is designed to have a fixed position, ensuring its visibility on all pages. It incorporates interactive features such as changing colors or styles when scrolled or when hovering over a menu item.
 
-**Features:**
 
-_**Fixed Position:**_ The navigation menu remains fixed on the screen, ensuring visibility on all pages.
-_**Interactive Styling**:_ Changes color or style when scrolled or when hovering over a menu item.
-_**Customizable:**_ Easily customizable to fit different design preferences and website themes.
-_**Responsive:**_ Designed to adapt to various screen sizes and devices.
+# Landing Page Project
+
+This landing page project is designed as a practice work in front end. It features a responsive design, attractive layout
+
+
+## Features
+
+- **Responsive Design**: The landing page adapts to various screen sizes, ensuring a consistent user experience across devices.
+- **Attractive Layout**: The layout is designed to be visually appealing, incorporating modern design principles.
+
+
+## Technologies Used
+
+- **HTML**: Provides the structure and content of the landing page.
+- **CSS**: Styles the HTML elements for a visually appealing interface.
+- **JavaScript**: Implements any dynamic behavior or interactivity on the landing page.
+
+
+## Getting Started
+
+To get a local copy of the project up and running on your machine, follow these steps:
+
+1. **Clone the Repository**: `git clone https://github.com/your-username/landing-page-project.git`
+2. **Navigate to the Project Directory**: `cd landing-page-project`
+3. **Open the HTML File**: Open the `index.html` file in a web browser to view the landing page locally.
+
+
+## Credits
+
+This landing page project was created by Niharika as a part of internship tasks.
